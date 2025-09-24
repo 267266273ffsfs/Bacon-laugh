@@ -95,7 +95,7 @@ end
 -- Configurações Áudio
 -- ======================
 local AUDIO_ID = 840202110
-local TOOL_NAME = "risada do c00lkid"
+local TOOL_NAME = "risada do Bacon.Exe"
 
 local function PlayServerAudio(ID)
     if type(ID) ~= "number" then return end
